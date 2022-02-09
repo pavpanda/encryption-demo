@@ -71,8 +71,6 @@ class _MyHomePageState extends State<MyHomePage> {
 
   RSAPrivateKey priKey;
 
-
-  // need to cite.
   /// With the helper [RsaKeyHelper] this method generates a
   /// new [crypto.AsymmetricKeyPair<crypto.PublicKey, crypto.PrivateKey>
   Future<crypto.AsymmetricKeyPair<crypto.PublicKey, crypto.PrivateKey>>
